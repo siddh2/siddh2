@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: siddh2081@gmail.com
 
 <h2 align ="center">Connect with me: </h2>
+
 <a align="left" href="https://www.instagram.com/siddh_ga/"><img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg"/></a>
 <a align="left" href="https://www.linkedin.com/in/thesiddharthgautam/"><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 <a align="left" href="https://twitter.com/Siddhar78741510"><img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/></a>
@@ -32,6 +33,11 @@ Here are some ideas to get you started:
 <img align="left" height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 <img align="left" height="32" width ="32" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
+<br>
+<br>
+
+<h2 align ="center">Git Status: </h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddh2&&show_icons=true&title_color=ffffff&icon=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
 
