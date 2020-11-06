@@ -4,15 +4,15 @@
 
 <!--
 **siddh2/siddh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning everything :smiley:
-- 👯 I’m looking to collaborate on ...
+Here are some ideas to get you started:
+-->
+
+- 🔭 I’m currently working on a project
+- 🌱 I’m currently learning everything :smiley:
+- 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anythings
+- 📫 How to reach me: siddh2081@gmail.com
+
 
