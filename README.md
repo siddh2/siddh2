@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: siddh2081@gmail.com
 
 <h2 align ="center">Connect with me: </h2>
-<a href="https://www.instagram.com/siddh_ga/"><img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg"/></a>
-<a href="https://www.linkedin.com/in/thesiddharthgautam/"><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/></a>
-<a href="https://twitter.com/Siddhar78741510"><img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/></a>
-<a href="siddh2081@gmail.com"><img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/></a>
-<a href="#"><img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/></a>
+<a align="left" href="https://www.instagram.com/siddh_ga/"><img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg"/></a>
+<a align="left" href="https://www.linkedin.com/in/thesiddharthgautam/"><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/></a>
+<a align="left" href="https://twitter.com/Siddhar78741510"><img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/></a>
+<a align="left" href="siddh2081@gmail.com"><img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/></a>
+<a align="left" href="#"><img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/></a>
 
 <h2 align ="center">Languages and Tools: </h2>
 <img align="left" height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
