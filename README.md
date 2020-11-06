@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2 align ="center">Connect with me: </h2>
-<a href="https://www.instagram.com/siddh_ga/"><img height="32" width ="32" style="background-color:DodgerBlue; src="https://simpleicons.org/icons/instagram.svg"/></a>
+<a href="https://www.instagram.com/siddh_ga/"><img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/thesiddharthgautam/"><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/></a>
 <a href="https://twitter.com/Siddhar78741510"><img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/></a>
 <a href="siddh2081@gmail.com"><img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/></a>
