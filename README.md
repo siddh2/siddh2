@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 
 <h2 align ="center">Connect with me: </h2>
-[<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>]
-[<img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/>]
-[<img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/>]
-[<img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/>]
-[<img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/>]
+<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/>
 
 <h2 align ="center">Languages and Tools: </h2>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
