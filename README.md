@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
 
-
 <h2 align ="center">Connect with me: </h2>
 <a href="https://www.instagram.com/siddh_ga/"><img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg"/></a>
 <a href="https://www.linkedin.com/in/thesiddharthgautam/"><img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/></a>
