@@ -1,7 +1,7 @@
 <h1 align ="center">Hi 👋 I'm Siddharth Gautam</h1>
 <br>
 
-<h2 style="color:blue;">I am seeking a challenging position in a well-established company where my technical education and experience will be a value addition to the company. I am a quick learner which augment my understanding about the subject and helps in imbibing the concepts very easily. My penchant of experimenting with new things here in this field engenders me an immense pleasure to render any kind of service to the mankind and society. I have a dream of doing something great for the nation.</h2>
+I am seeking a challenging position in a well-established company where my technical education and experience will be a value addition to the company. I am a quick learner which augment my understanding about the subject and helps in imbibing the concepts very easily. My penchant of experimenting with new things here in this field engenders me an immense pleasure to render any kind of service to the mankind and society. I have a dream of doing something great for the nation.
 
 <!--
 **siddh2/siddh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
+
+<img height="32" width ="32" src="https://cdn.jsdelivr.net/npm/simple-icons/instagram.svg"/>
 
 
