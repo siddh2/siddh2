@@ -1,4 +1,4 @@
-### Hi there 👋 :blush: :india flag:
+<center>### Hi there 👋 I'm Siddharth Gautam</center>
 
 <!--
 **siddh2/siddh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
