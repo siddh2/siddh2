@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
 <img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/>
-<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
-<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
-<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/>
 
 
