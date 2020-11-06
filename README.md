@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning everything :smiley:
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
 
