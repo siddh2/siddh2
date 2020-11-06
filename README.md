@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
 
+
+<h2 align ="center">Connect with me: </h2>
 <img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
 <img height="32" width ="32" src="https://simpleicons.org/icons/linkedin.svg"/>
 <img height="32" width ="32" src="https://simpleicons.org/icons/twitter.svg"/>
 <img height="32" width ="32" src="https://simpleicons.org/icons/gmail.svg"/>
 <img height="32" width ="32" src="https://simpleicons.org/icons/youtube.svg"/>
 
-
+<h2 align ="center">Languages and Tools: </h2>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img height="32" width ="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+<img height="32" width ="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FbJwTxh_visual-studio-code-visual-studio-code-icon-png%2F&psig=AOvVaw2UWu_FX9DDthEsgLs7Ooxj&ust=1604756165863000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi_5N6E7uwCFQAAAAAdAAAAABAI"/>
 
 
 
