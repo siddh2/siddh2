@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
 
-<img height="32" width ="32" src="https://cdn.jsdelivr.net/npm/simple-icons/instagram.svg"/>
+<img height="32" width ="32" src="https://simpleicons.org/icons/instagram.svg"/>
 
 
