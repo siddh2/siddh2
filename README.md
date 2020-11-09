@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-
-(<img align="left" height="32" witdth="32" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />)
-(https://gaana.com/song/girls-like-you-35)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://gaana.com/song/girls-like-you-35)
 
 
 
