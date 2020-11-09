@@ -52,6 +52,14 @@ Here are some ideas to get you started:
 
 <h2 align ="center">Git Status: </h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=siddh2&&show_icons=true&title_color=ffffff&icon=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<br>
+<br>
+
+### Spotify Playing 🎧
+
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />]
+(https://gaana.com/song/girls-like-you-35)
 
 
 
