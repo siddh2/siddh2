@@ -1,4 +1,4 @@
-<h1 align ="center">Hi 👋 I'm Siddharth Gautam :india:</h1>
+<h1 align ="center">Hi 👋 I'm Siddharth Gautam </h1>
 <br>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
