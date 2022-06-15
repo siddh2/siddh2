@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anythings
 - 📫 How to reach me: siddh2081@gmail.com
+- 📫 How to reach me: https://siddh2.github.io/portfolio/
 
 <h2 align ="center">Connect with me: </h2>
 
